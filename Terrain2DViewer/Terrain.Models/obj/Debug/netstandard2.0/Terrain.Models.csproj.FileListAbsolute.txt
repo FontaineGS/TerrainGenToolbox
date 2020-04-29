@@ -1,0 +1,8 @@
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\bin\Debug\netstandard2.0\Terrain.Models.deps.json
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\bin\Debug\netstandard2.0\Terrain.Models.dll
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\bin\Debug\netstandard2.0\Terrain.Models.pdb
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\obj\Debug\netstandard2.0\Terrain.Models.csprojAssemblyReference.cache
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\obj\Debug\netstandard2.0\Terrain.Models.AssemblyInfoInputs.cache
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\obj\Debug\netstandard2.0\Terrain.Models.AssemblyInfo.cs
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\obj\Debug\netstandard2.0\Terrain.Models.dll
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Models\obj\Debug\netstandard2.0\Terrain.Models.pdb

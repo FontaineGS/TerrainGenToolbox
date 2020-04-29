@@ -1,0 +1,11 @@
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\obj\Debug\netstandard2.0\Terrain.Generator.csprojAssemblyReference.cache
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\obj\Debug\netstandard2.0\Terrain.Generator.AssemblyInfoInputs.cache
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\obj\Debug\netstandard2.0\Terrain.Generator.AssemblyInfo.cs
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\bin\Debug\netstandard2.0\Terrain.Generator.deps.json
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\bin\Debug\netstandard2.0\Terrain.Generator.dll
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\bin\Debug\netstandard2.0\Terrain.Generator.pdb
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\bin\Debug\netstandard2.0\Terrain.Models.dll
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\bin\Debug\netstandard2.0\Terrain.Models.pdb
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\obj\Debug\netstandard2.0\Terrain.Generator.csproj.CopyComplete
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\obj\Debug\netstandard2.0\Terrain.Generator.dll
+C:\Repository\TerrainGenToolbox\Terrain2DViewer\Terrain.Generator\obj\Debug\netstandard2.0\Terrain.Generator.pdb

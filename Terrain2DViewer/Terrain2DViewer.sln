@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrain2DViewer", "Terrain2DViewer\Terrain2DViewer.csproj", "{DFA38897-B61F-48E0-81D2-EE80F14BEA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrain.Models", "Terrain.Models\Terrain.Models.csproj", "{9460B6A5-BF35-47E6-A913-D335160644FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrain.Generator", "Terrain.Generator\Terrain.Generator.csproj", "{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA38897-B61F-48E0-81D2-EE80F14BEA01}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DFA38897-B61F-48E0-81D2-EE80F14BEA01}.Debug|x86.ActiveCfg = Debug|x86
+		{DFA38897-B61F-48E0-81D2-EE80F14BEA01}.Debug|x86.Build.0 = Debug|x86
+		{DFA38897-B61F-48E0-81D2-EE80F14BEA01}.Release|Any CPU.ActiveCfg = Release|x86
+		{DFA38897-B61F-48E0-81D2-EE80F14BEA01}.Release|x86.ActiveCfg = Release|x86
+		{DFA38897-B61F-48E0-81D2-EE80F14BEA01}.Release|x86.Build.0 = Release|x86
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Debug|x86.Build.0 = Debug|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Release|x86.ActiveCfg = Release|Any CPU
+		{9460B6A5-BF35-47E6-A913-D335160644FF}.Release|x86.Build.0 = Release|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Debug|x86.Build.0 = Debug|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{2109009C-EE3D-43C3-B299-3C4CCAADD8C9}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E1FECD-6D19-493C-954D-B70A5B25EF2A}
+	EndGlobalSection
+EndGlobal
